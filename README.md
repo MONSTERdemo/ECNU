@@ -1,2 +1,2 @@
 # ECNU
-involved learning materials or othe something interesting
+involved learning materials or other something interesting
